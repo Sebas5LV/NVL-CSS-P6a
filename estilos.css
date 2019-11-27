@@ -1,0 +1,50 @@
+div {
+  background-color: white;
+  color: green;
+ 
+}
+
+.primero{
+  background-color: #FFFFFF;
+  width: 25%
+  
+}
+.segundo{
+  background-color: #CCCCCC;
+      width: 25%;
+}
+
+.tercero{
+  background-color:#B7B7B6;
+  width: 25%;
+}
+
+.cuarto{
+  background-color:#969493;
+    width: 25%;
+  
+}
+.quinto{
+  background-color: #7B7A7A;
+    width: 25%;
+}
+.sexto {
+  background-color: #585757;
+    width: 25%;
+}
+.septimo {
+  background-color: #3D3D3D;
+  width: 25%;
+}
+.octavo{
+  background-color: #20201f;
+    width:25%;
+}
+.noveno{
+  background-color: #141414;
+  width: 25%;
+}
+.decimo{
+  background-color: #000000;
+  width:25%
+}
